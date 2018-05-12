@@ -1,0 +1,36 @@
+_repo: Puvis-de-ChavannesMasterpieces-in-Colour-Series_41835
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41835-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Crastre, François
+    aliases:
+    - Crastre, Fr. (François)
+    - Crastre, Francois
+    gutenberg_agent_id: '38328'
+    url: http://www.gutenberg.org/2009/agents/38328
+  editor:
+    agent_name: Roujon, Henry
+    alias: Roujon, M. Henry
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '41388'
+    url: http://www.gutenberg.org/2009/agents/41388
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Puvis de Chavannes, Pierre, 1824-1898'
+- !lcc 'ND'
+title: Puvis de Chavannes
+url: http://www.gutenberg.org/ebooks/41835
